@@ -1,2 +1,1 @@
-# Bam
-Time table for my marathon semester class 
+Been such a longtime I have created this github account and I have finally come back to work things out and embrace my inner developer passion. I had always wanted to learn how the web work and how to do this and that and roll with some finest programmer out there. I would be chuff to have someone explain some cool stuff to me and the concept of coding from its ground-up to a wannabe like me.
